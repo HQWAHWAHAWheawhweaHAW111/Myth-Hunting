@@ -1,0 +1,6 @@
+openai
+opencv-python
+pytesseract
+pyautogui
+streamlit
+gradio
